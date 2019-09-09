@@ -1,0 +1,9 @@
+DEBUG:rasa.nlu.training_data.loading:Training data format of './data/nlu.md' is 'md'.
+DEBUG:rasa.nlu.training_data.loading:Training data format of './data/nlu.md' is 'md'.
+INFO:rasa_nlu.training_data.loading:Training data format of ./data/nlu.md is md
+INFO:rasa_nlu.training_data.training_data:Training data stats: 
+	- intent examples: 0 (0 distinct intents)
+	- Found intents: 
+	- entity examples: 0 (0 distinct entities)
+	- found entities: 
+
